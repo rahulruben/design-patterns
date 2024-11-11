@@ -3,6 +3,6 @@
  *
  * @param {number} amount - The amount to be paid.
  */
-const googlePayPayment = (amount) => {
+function googlePayPayment(amount) {
   console.log(`Processing Google Pay payment of $${amount}`);
 };
