@@ -1,4 +1,4 @@
-import { Scroll } from "./scroll";
+import { Scroll } from "../abstract-products/scroll";
 
 export class LightScroll extends Scroll {
   render() {

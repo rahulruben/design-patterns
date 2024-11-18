@@ -1,4 +1,4 @@
-import { ThemeFactory } from "./theme-factory";
+import { ThemeFactory } from "../abstract-factory/theme-factory";
 
 export class DarkThemeFactory extends ThemeFactory {
   createButton() {

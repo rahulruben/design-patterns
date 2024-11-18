@@ -1,4 +1,4 @@
-import { Button } from "./button";
+import { Button } from "../abstract-products/button";
 
 export class LightButton extends Button {
   render() {

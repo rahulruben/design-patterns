@@ -1,4 +1,4 @@
-import { ThemeFactory } from "./theme-factory";
+import { ThemeFactory } from "../abstract-factory/theme-factory";
 
 export class LightThemeFactory extends ThemeFactory {
   createButton() {
